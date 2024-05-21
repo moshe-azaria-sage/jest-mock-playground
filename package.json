@@ -1,0 +1,29 @@
+{
+  "name": "jest-mock-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshe-azaria-sage/jest-mock-playground.git"
+  },
+  "keywords": [
+    "jest",
+    "mock",
+    "test",
+    "playground"
+  ],
+  "author": "M-A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshe-azaria-sage/jest-mock-playground/issues"
+  },
+  "homepage": "https://github.com/moshe-azaria-sage/jest-mock-playground#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "ts-jest": "^29.1.3"
+  }
+}
